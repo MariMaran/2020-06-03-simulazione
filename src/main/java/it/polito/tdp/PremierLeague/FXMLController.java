@@ -44,7 +44,8 @@ public class FXMLController {
 
     @FXML
     void doCreaGrafo(ActionEvent event) {
-
+    	double goalMinimo=Double.parseDouble((txtGoals.getText()));
+    	
     }
 
     @FXML
